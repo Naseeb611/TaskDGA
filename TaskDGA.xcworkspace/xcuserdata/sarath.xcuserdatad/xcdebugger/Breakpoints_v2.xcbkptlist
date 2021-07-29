@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6458D499-A596-43C4-ADCD-8D8BF9C7CE22"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D23ADE19-366A-4FDE-9C31-EDC96DCAEE7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskDGA/Model/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "imageFromServerURL(urlString:placeHolderImg:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D23ADE19-366A-4FDE-9C31-EDC96DCAEE7C - f3bfc8013de79022"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.UIImageView.imageFromServerURL(urlString: Swift.String, placeHolderImg: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "TaskDGA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarath/Desktop/TaskDGA/TaskDGA/Model/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "1729">
+               </Location>
+               <Location
+                  uuid = "D23ADE19-366A-4FDE-9C31-EDC96DCAEE7C - d0383d776775c78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in __C.UIImageView.imageFromServerURL(urlString: Swift.String, placeHolderImg: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "TaskDGA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarath/Desktop/TaskDGA/TaskDGA/Model/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "193">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F10D321-2C2C-4189-BF32-C802A3E35676"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskDGA/Model/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "imageFromServerURL(urlString:placeHolderImg:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
